@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Резюме Сергей Гусев</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Резюме Сергей Гусев</description>
+    <generator>Hugo</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 30 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Сергей Гусев</title>
+      <link>http://localhost:1313/cv/</link>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cv/</guid>
+      <description>&lt;h1 id=&#34;сергей-гусев&#34;&gt;Сергей Гусев&lt;/h1&gt;&#xA;&lt;p&gt;Email: &lt;a href=&#34;mailto:xerogi2003@gmail.com&#34;&gt;xerogi2003@gmail.com&lt;/a&gt;&lt;br&gt;&#xA;Телефон: +7 (927) 886-27-66&lt;br&gt;&#xA;GitHub: &lt;a href=&#34;https://github.com/xerogi2k&#34;&gt;github.com/xerogi2k&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;образование&#34;&gt;Образование&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Программная инжинерия, ПГТУ &amp;ldquo;Волгатех&amp;rdquo;, 2022-2026&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;опыт-работы&#34;&gt;Опыт работы&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Разработчик Python, 2019-нынешнее время&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Разработка и поддержка backend-сервисов на Django.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;навыки&#34;&gt;Навыки&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Python, Django, Flask&lt;/li&gt;&#xA;&lt;li&gt;Git&lt;/li&gt;&#xA;&lt;li&gt;SQL&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
